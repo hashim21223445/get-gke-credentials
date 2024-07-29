@@ -32,7 +32,7 @@
   "devDependencies": {
     "@kubernetes/client-node": "^0.21.0",
     "@types/node": "^20.12.12",
-    "@typescript-eslint/eslint-plugin": "^7.10.0",
+    "@typescript-eslint/eslint-plugin": "^7.16.0",
     "@typescript-eslint/parser": "^7.10.0",
     "@vercel/ncc": "^0.38.1",
     "eslint-config-prettier": "^9.1.0",
