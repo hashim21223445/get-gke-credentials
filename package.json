@@ -30,7 +30,7 @@
     "yaml": "^2.4.2"
   },
   "devDependencies": {
-    "@kubernetes/client-node": "^0.21.0",
+    "@kubernetes/client-node": "^1.0.0",
     "@types/node": "^20.14.11",
     "@typescript-eslint/eslint-plugin": "^8.18.0",
     "@typescript-eslint/parser": "^7.16.1",
